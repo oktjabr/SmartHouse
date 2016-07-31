@@ -1,0 +1,6 @@
+c:\users\октябрь\documents\visual studio 2015\Projects\OOP\HouseProgect\HouseProgect\bin\Debug\HouseProgect.exe.config
+C:\Users\Октябрь\documents\visual studio 2015\Projects\OOP\HouseProgect\HouseProgect\bin\Debug\HouseProgect.exe
+C:\Users\Октябрь\documents\visual studio 2015\Projects\OOP\HouseProgect\HouseProgect\bin\Debug\HouseProgect.pdb
+C:\Users\Октябрь\documents\visual studio 2015\Projects\OOP\HouseProgect\HouseProgect\obj\Debug\HouseProgect.csprojResolveAssemblyReference.cache
+C:\Users\Октябрь\documents\visual studio 2015\Projects\OOP\HouseProgect\HouseProgect\obj\Debug\HouseProgect.exe
+C:\Users\Октябрь\documents\visual studio 2015\Projects\OOP\HouseProgect\HouseProgect\obj\Debug\HouseProgect.pdb

@@ -4,3 +4,12 @@ C:\Users\Октябрь\documents\visual studio 2015\Projects\OOP\HouseProgect\H
 C:\Users\Октябрь\documents\visual studio 2015\Projects\OOP\HouseProgect\HouseProgect\obj\Debug\HouseProgect.csprojResolveAssemblyReference.cache
 C:\Users\Октябрь\documents\visual studio 2015\Projects\OOP\HouseProgect\HouseProgect\obj\Debug\HouseProgect.exe
 C:\Users\Октябрь\documents\visual studio 2015\Projects\OOP\HouseProgect\HouseProgect\obj\Debug\HouseProgect.pdb
+C:\Users\Katuha\Desktop\HouseRepository\HouseProgect\HouseProgect\bin\Debug\HouseProgect.exe.config
+C:\Users\Katuha\Desktop\HouseRepository\HouseProgect\HouseProgect\obj\Debug\HouseProgect.exe
+C:\Users\Katuha\Desktop\HouseRepository\HouseProgect\HouseProgect\obj\Debug\HouseProgect.pdb
+C:\Users\Katuha\Desktop\HouseRepository — копия\HouseProgect\HouseProgect\bin\Debug\HouseProgect.exe.config
+C:\Users\Katuha\Desktop\HouseRepository — копия\HouseProgect\HouseProgect\obj\Debug\HouseProgect.exe
+C:\Users\Katuha\Desktop\HouseRepository — копия\HouseProgect\HouseProgect\obj\Debug\HouseProgect.pdb
+C:\Users\Katuha\Desktop\HouseRepository — копия\HouseProgect\HouseProgect\bin\Debug\HouseProgect.exe
+C:\Users\Katuha\Desktop\HouseRepository — копия\HouseProgect\HouseProgect\bin\Debug\HouseProgect.pdb
+C:\Users\Katuha\Desktop\HouseRepository — копия\HouseProgect\HouseProgect\obj\Debug\HouseProgect.csprojResolveAssemblyReference.cache

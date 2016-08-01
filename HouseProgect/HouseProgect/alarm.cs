@@ -20,6 +20,7 @@ namespace HouseProgect
             Console.BackgroundColor = ConsoleColor.Black;
             Console.WriteLine("БЕГИТЕ ГЛУПЦЫ !!!!!!!");
 
+            Console.ReadKey();
         }
     }
 }

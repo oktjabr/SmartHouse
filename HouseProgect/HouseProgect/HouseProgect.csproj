@@ -45,6 +45,7 @@
   <ItemGroup>
     <Compile Include="alarm.cs" />
     <Compile Include="Boiler.cs" />
+    <Compile Include="ChanelCollection.cs" />
     <Compile Include="Door.cs" />
     <Compile Include="House.cs" />
     <Compile Include="Program.cs" />
